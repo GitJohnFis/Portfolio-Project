@@ -3,6 +3,8 @@
   --mainC-blue: #0056a8;
   --mainC-white: #FFFD; 
   --mainC-ice: #E2FCFF;
+  --main-void: #000000;
+
 }
 
 h1, h2, h3 {
@@ -78,7 +80,14 @@ p {
   text-align: center;
   padding: 20px;
 }
+div img{
+  background-color: var(--main-void);
 
+}
+#banner{
+  width: 100%;
+
+}
 .projects {
   padding: 20px;
 }
