@@ -1,5 +1,3 @@
-# Portfolio-Project
-freeCodeCampus 5/5 project
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,6 +12,10 @@ freeCodeCampus 5/5 project
 </head>
 
 <body>
+<body>
+  <div id="banner-block" class="banner">
+    <img src="Bond quotes.jpg" alt="Banner image of Portfolio" style="width: 100%;"/>
+</div>
   <nav id="navbar">
     <ul id="nav-list">
       <li>
