@@ -83,12 +83,14 @@ p {
 div img{
   background-color: var(--main-void);
   width: fit-content;
+  max-height: 180px;
+  justify-content: center;
 }
 #banner-block{
-  display: absolute;
+  display: felx;
+  float: center;
   width: 100%;
   margin-top: 20px;
-  border: 17px;
 }
 .projects {
   padding: 20px;
